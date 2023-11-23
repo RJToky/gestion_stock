@@ -1,0 +1,22 @@
+.btn-teal {
+  background: var(--bs-teal);
+  border: 1px solid var(--bs-teal);
+  color: white !important;
+  transition-duration: 0.3s;
+}
+
+.btn-teal:hover {
+  background: var(--bs-green);
+}
+
+.btn-transparent {
+  background: none;
+  border: 1px solid #0000005c;
+  color: black !important;
+  transition-duration: 0.3s;
+}
+
+.btn-transparent:hover {
+  border: 1px solid #0000005c;
+  background: #00000014;
+}

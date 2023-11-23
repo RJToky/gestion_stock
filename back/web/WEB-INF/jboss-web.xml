@@ -1,0 +1,3 @@
+<jboss-web>
+    <context-root>/back_stock</context-root>
+</jboss-web>
